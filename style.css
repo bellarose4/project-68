@@ -1,0 +1,29 @@
+h1{
+	text-align: center;
+	font-size: 40px;
+	color:red;
+}
+
+h3{
+	text-align: center;
+	color:red;
+}
+.center{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+	font-size: 20px;
+	text-align: center;
+}
+a{
+	text-align: center;
+}
+
+body{
+	background-color: #EFDECD
+		}
+span{
+	color:red;
+}
